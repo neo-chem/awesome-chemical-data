@@ -50,6 +50,8 @@ We live in a data-driven age. To make use of all the data that is produced in (e
 
 - [elnItemManifest](https://sourceforge.net/p/labtrove/code/HEAD/tree/trunk/schemas/). Describes core metadata for ELNs (like title, keywords, identifiers, contact, license information, related items, contributors, content, source). [📄](https://link.springer.com/article/10.1186/1758-2946-5-52#Sec3). 😴
 
+- [autoprotocol](https://autoprotocol.org/). Language for specifying experimental protocols. Has with [Autoprotocol standard changes](https://autoprotocol.org/ascs/) a mechanism similar to Python enhancement proposals for changes in the standard. [![Github Stars](https://img.shields.io/github/stars/autoprotocol/autoprotocol-python?style=social)](https://github.com/autoprotocol/autoprotocol-python) ![GitHub last commit](https://img.shields.io/github/last-commit/autoprotocol/autoprotocol-python?style=social)
+
 ### Analytical methods
 
 - [Chemical Methods Ontology](https://github.com/rsc-ontologies/rsc-cmo): Describes methods used to collect data in chemical experiments, based on the IUPAC Orange Book in ontology language (OBO and OWL).[![Github Stars](https://img.shields.io/github/stars/rsc-ontologies/rsc-cmo?style=social)](https://github.com/rsc-ontologies/rsc-cmo) ![GitHub last commit](https://img.shields.io/github/last-commit/rsc-ontologies/rsc-cmo?style=social)
