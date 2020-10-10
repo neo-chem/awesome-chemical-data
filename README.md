@@ -21,8 +21,6 @@ We live in a data-driven age. To make use of all the data that is produced in ch
 - [chemotion ELN](https://github.com/ComPlat/chemotion_ELN): Developed by Nicole Jung's group at KIT, with focus on organic chemistry. Written in JavaScript/Ruby. [![Github Stars](https://img.shields.io/github/stars/ComPlat/chemotion_ELN?style=social)](https://github.com/ComPlat/chemotion_ELN) ![GitHub last commit](https://img.shields.io/github/last-commit/ComPlat/chemotion_ELN?style=social)
 - [openBIS](https://openbis.ch/): General purpose LIMS/ELN developed at ETH Zuerich, allows to add custom plugins and direct data analysis in Jupyter notebooks. Core written in Java.
 
-### Commercial solutions
-
 ## Repositories
 
 - [chemotion repository](https://www.chemotion-repository.net/welcome): Repository for molecules, reactions and research data.
@@ -33,9 +31,13 @@ We live in a data-driven age. To make use of all the data that is produced in ch
 
 - [Pachl, C.; Frank, N.; Breitbart, J.; Bräse, S. Overview of Chemical Ontologies. arXiv:2002.03842 [cs] 2020.](https://arxiv.org/pdf/2002.03842.pdf)
 
+### Generic
+
+- [SciData](https://github.com/stuchalk/scidata): scientific data model (SDM) and related ontology (SDMO). [![Github Stars](https://img.shields.io/github/stars/stuchalk/scidata?style=social)](https://github.com/stuchalk/scidata) ![GitHub last commit](https://img.shields.io/github/last-commit/stuchalk/scidata?style=social)
+
 ### Analytical methods
 
-- [Chemical Methods Ontology](https://github.com/rsc-ontologies/rsc-cmo): Describes methods used to collect data in chemical experiments, based on the IUPAC Orange Book in ontology language (OBO and OWL).
+- [Chemical Methods Ontology](https://github.com/rsc-ontologies/rsc-cmo): Describes methods used to collect data in chemical experiments, based on the IUPAC Orange Book in ontology language (OBO and OWL).[![Github Stars](https://img.shields.io/github/stars/rsc-ontologies/rsc-cmo?style=social)](https://github.com/rsc-ontologies/rsc-cmo) ![GitHub last commit](https://img.shields.io/github/last-commit/rsc-ontologies/rsc-cmo?style=social)
 - [Chemical Analysis Metadata Platform](http://champ-project.org/): Ontology, Vocabularies, Metadata for Chemical Analysis. 😴
 - [Analytical Information Markup Language (AnIML)](https://animl.org/): American Society for Testing and Materials (ASTM) XML standard for analytical chemistry and biological data, with [regular meetings](https://animl.org/meetings).
 
@@ -45,8 +47,16 @@ We live in a data-driven age. To make use of all the data that is produced in ch
 - [Molecular process ontology (MOP)](https://www.ebi.ac.uk/ols/ontologies/mop): Molecular processes that underlie the name reaction ontology RXNO.
 - [ord-schema](https://github.com/Open-Reaction-Database/ord-schema): Schema for organic reactions developed for the open reaction database. [![Github Stars](https://img.shields.io/github/stars/Open-Reaction-Database/ord-schema?style=social)](https://github.com/Open-Reaction-Database/ord-schema) ![GitHub last commit](https://img.shields.io/github/last-commit/Open-Reaction-Database/ord-schema?style=social)
 
+## Materials synthesis
+
+- []()
+
+## Materials properties
+
+- [MatML](https://www.matml.org/): XML format for the interchange of materials information. 😴
+
 ## Standardization initiatives
 
 Initiatives aiming to develop standard data formats.
 
-- [NMReDATA](http://nmredata.org/): Proposing a format for storing NMR data.
+- [NMReDATA](http://nmredata.org/): Proposing a format for storing NMR data. [![Github Stars](https://img.shields.io/github/stars/NMReDATAInitiative/javatools?style=social)](https://github.com/NMReDATAInitiative/javatools) ![GitHub last commit](https://img.shields.io/github/last-commit/NMReDATAInitiative/javatools?style=social)
