@@ -1,11 +1,12 @@
 # Awesome data in chemistry and materials science [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-We live in a data-driven age. To make use of all the data that is produced in chemistry and materials science, standards for collecting and sharing of data are needed.
+We live in a data-driven age. To make use of all the data that is produced in chemistry and materials science, standards for collecting and sharing of data are needed. Once the community agrees on standard schemas, they can be implemented in ELNs and the data can be re-used if shared via repositories.
 
 | Symbol | Meaning                            |
 | ------ | ---------------------------------- |
 | 😴     | Currently not developed/maintained |
 | 💰     | Proprietary product                |
+| 📄     | Link to a paper                    |
 
 ## Electronic lab notebooks (ELN) / Laboratory infrastructure management systems (LIMS)
 
@@ -17,9 +18,9 @@ We live in a data-driven age. To make use of all the data that is produced in ch
 
 ### Open Source
 
-- [c6h6](https://www.c6h6.org/): Developed by the [cheminfo organization](https://github.com/cheminfo), couchDB backend, modular frontend in JavaScript. [![Github Stars](https://img.shields.io/github/stars/cheminfo/roc-eln-docker?style=social)](https://github.com/cheminfo/roc-eln-docker) ![GitHub last commit](https://img.shields.io/github/last-commit/cheminfo/roc-eln-docker?style=social)
-- [chemotion ELN](https://github.com/ComPlat/chemotion_ELN): Developed by Nicole Jung's group at KIT, with focus on organic chemistry. Written in JavaScript/Ruby. [![Github Stars](https://img.shields.io/github/stars/ComPlat/chemotion_ELN?style=social)](https://github.com/ComPlat/chemotion_ELN) ![GitHub last commit](https://img.shields.io/github/last-commit/ComPlat/chemotion_ELN?style=social)
-- [openBIS](https://openbis.ch/): General purpose LIMS/ELN developed at ETH Zuerich, allows to add custom plugins and direct data analysis in Jupyter notebooks. Core written in Java.
+- [c6h6](https://www.c6h6.org/): Developed by the [cheminfo organization](https://github.com/cheminfo), couchDB backend, modular frontend in JavaScript. [![Github Stars](https://img.shields.io/github/stars/cheminfo/roc-eln-docker?style=social)](https://github.com/cheminfo/roc-eln-docker) ![GitHub last commit](https://img.shields.io/github/last-commit/cheminfo/roc-eln-docker?style=social) [📄](https://onlinelibrary.wiley.com/doi/abs/10.1002/mrc.4669)
+- [chemotion ELN](https://github.com/ComPlat/chemotion_ELN): Developed by Nicole Jung's group at KIT, with focus on organic chemistry. Written in JavaScript/Ruby. [![Github Stars](https://img.shields.io/github/stars/ComPlat/chemotion_ELN?style=social)](https://github.com/ComPlat/chemotion_ELN) ![GitHub last commit](https://img.shields.io/github/last-commit/ComPlat/chemotion_ELN?style=social) [📄](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5612905/pdf/13321_2017_Article_240.pdf)
+- [openBIS](https://openbis.ch/): General purpose LIMS/ELN developed at ETH Zuerich, allows to add custom plugins and direct data analysis in Jupyter notebooks. Core written in Java. [📄](https://academic.oup.com/bioinformatics/article/32/4/638/1743839).
 
 ## Repositories
 
@@ -35,6 +36,10 @@ We live in a data-driven age. To make use of all the data that is produced in ch
 
 - [SciData](https://github.com/stuchalk/scidata): scientific data model (SDM) and related ontology (SDMO). [![Github Stars](https://img.shields.io/github/stars/stuchalk/scidata?style=social)](https://github.com/stuchalk/scidata) ![GitHub last commit](https://img.shields.io/github/last-commit/stuchalk/scidata?style=social)
 
+- [oreChem](https://www.openarchives.org/oreChem/2010/05/24-orechem-ns) its goal was to create an ontology for scientific experiments, was funded by Microsoft research. "The oreChem s Ontology [eo] describes (a) the planned method of a scientific experiment; (b) the enactment of plans and (c) the provenance of objects realised during enactments." [📄](https://eprints.soton.ac.uk/179619/1/05693933.pdf). 😴
+
+- [elnItemManifest](https://sourceforge.net/p/labtrove/code/HEAD/tree/trunk/schemas/). Describes core metadata for ELNs (like title, keywords, identifiers, contact, license information, related items, contributors, content, source). [📄](https://link.springer.com/article/10.1186/1758-2946-5-52#Sec3). 😴
+
 ### Analytical methods
 
 - [Chemical Methods Ontology](https://github.com/rsc-ontologies/rsc-cmo): Describes methods used to collect data in chemical experiments, based on the IUPAC Orange Book in ontology language (OBO and OWL).[![Github Stars](https://img.shields.io/github/stars/rsc-ontologies/rsc-cmo?style=social)](https://github.com/rsc-ontologies/rsc-cmo) ![GitHub last commit](https://img.shields.io/github/last-commit/rsc-ontologies/rsc-cmo?style=social)
@@ -49,14 +54,12 @@ We live in a data-driven age. To make use of all the data that is produced in ch
 
 ## Materials synthesis
 
-- []()
-
 ## Materials properties
 
 - [MatML](https://www.matml.org/): XML format for the interchange of materials information. 😴
 
-## Standardization initiatives
-
-Initiatives aiming to develop standard data formats.
+## Spectral data
 
 - [NMReDATA](http://nmredata.org/): Proposing a format for storing NMR data. [![Github Stars](https://img.shields.io/github/stars/NMReDATAInitiative/javatools?style=social)](https://github.com/NMReDATAInitiative/javatools) ![GitHub last commit](https://img.shields.io/github/last-commit/NMReDATAInitiative/javatools?style=social)
+
+- [JCAMP-DX](http://www.jcamp-dx.org/): Joint Committee on Atomic and Molecular Physical Data (JCAMP) data extension file for spectral data. Used by the [c6h6 eln](www.c6h6.org).
