@@ -44,13 +44,13 @@ We live in a data-driven age. To make use of all the data that is produced in (e
 
 ### Generic
 
-- [SciData](https://github.com/stuchalk/scidata): scientific data model (SDM) and related ontology (SDMO). [![Github Stars](https://img.shields.io/github/stars/stuchalk/scidata?style=social)](https://github.com/stuchalk/scidata) ![GitHub last commit](https://img.shields.io/github/last-commit/stuchalk/scidata?style=social)
+- [SciData](https://github.com/stuchalk/scidata): Scientific data model (SDM) and related ontology (SDMO). [![Github Stars](https://img.shields.io/github/stars/stuchalk/scidata?style=social)](https://github.com/stuchalk/scidata) ![GitHub last commit](https://img.shields.io/github/last-commit/stuchalk/scidata?style=social)
 
-- [oreChem](https://www.openarchives.org/oreChem/2010/05/24-orechem-ns) its goal was to create an ontology for scientific experiments, was funded by Microsoft research. "The oreChem s Ontology [eo] describes (a) the planned method of a scientific experiment; (b) the enactment of plans and (c) the provenance of objects realised during enactments." [📄](https://eprints.soton.ac.uk/179619/1/05693933.pdf). 😴
+- [oreChem](https://www.openarchives.org/oreChem/2010/05/24-orechem-ns): Its goal was to create an ontology for scientific experiments, was funded by Microsoft research. "The oreChem s Ontology [eo] describes (a) the planned method of a scientific experiment; (b) the enactment of plans and (c) the provenance of objects realised during enactments." [📄](https://eprints.soton.ac.uk/179619/1/05693933.pdf). 😴
 
-- [elnItemManifest](https://sourceforge.net/p/labtrove/code/HEAD/tree/trunk/schemas/). Describes core metadata for ELNs (like title, keywords, identifiers, contact, license information, related items, contributors, content, source). [📄](https://link.springer.com/article/10.1186/1758-2946-5-52#Sec3). 😴
+- [elnItemManifest](https://sourceforge.net/p/labtrove/code/HEAD/tree/trunk/schemas/): Describes core metadata for ELNs (like title, keywords, identifiers, contact, license information, related items, contributors, content, source). [📄](https://link.springer.com/article/10.1186/1758-2946-5-52#Sec3). 😴
 
-- [autoprotocol](https://autoprotocol.org/). Language for specifying experimental protocols. Has with [Autoprotocol standard changes](https://autoprotocol.org/ascs/) a mechanism similar to Python enhancement proposals for changes in the standard. [![Github Stars](https://img.shields.io/github/stars/autoprotocol/autoprotocol-python?style=social)](https://github.com/autoprotocol/autoprotocol-python) ![GitHub last commit](https://img.shields.io/github/last-commit/autoprotocol/autoprotocol-python?style=social)
+- [autoprotocol](https://autoprotocol.org/): Language for specifying experimental protocols. Has with [Autoprotocol standard changes](https://autoprotocol.org/ascs/) a mechanism similar to Python enhancement proposals for changes in the standard. [![Github Stars](https://img.shields.io/github/stars/autoprotocol/autoprotocol-python?style=social)](https://github.com/autoprotocol/autoprotocol-python) ![GitHub last commit](https://img.shields.io/github/last-commit/autoprotocol/autoprotocol-python?style=social)
 
 ### Analytical methods
 
