@@ -8,6 +8,13 @@ We live in a data-driven age. To make use of all the data that is produced in (e
 | 💰     | Proprietary product                |
 | 📄     | Link to a paper                    |
 
+## Contents
+
+- [Electronic lab notebooks (ELN) / Laboratory infrastructure management systems (LIMS)](#electronic-lab-notebooks-eln--laboratory-infrastructure-management-systems-lims)
+- [Repositories](#repositories)
+- [Schemas/Ontologies](#schemasontologies)
+- [Related compilations](#related-compilations)
+
 ## Electronic lab notebooks (ELN) / Laboratory infrastructure management systems (LIMS)
 
 ### Overviews
