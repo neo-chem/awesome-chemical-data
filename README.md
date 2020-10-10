@@ -1,6 +1,6 @@
-# Awesome data in chemistry and materials science [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome data in (experimental) chemistry and materials science [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-We live in a data-driven age. To make use of all the data that is produced in chemistry and materials science, standards for collecting and sharing of data are needed. Once the community agrees on standard schemas, they can be implemented in ELNs and the data can be re-used if shared via repositories.
+We live in a data-driven age. To make use of all the data that is produced in (experimental) chemistry and materials science, standards for collecting and sharing of data are needed. Once the community agrees on standard schemas, they can be implemented in ELNs and the data can be re-used if shared via repositories.
 
 | Symbol | Meaning                            |
 | ------ | ---------------------------------- |
@@ -26,6 +26,8 @@ We live in a data-driven age. To make use of all the data that is produced in ch
 ## Repositories
 
 - [chemotion repository](https://www.chemotion-repository.net/welcome): Repository for molecules, reactions and research data.
+
+- [Materials Commons](https://materialscommons.org/): A site for Materials Scientists to collaborate, store and publish research. [![Github Stars](https://img.shields.io/github/stars/materials-commons/materialscommons.org?style=social)](https://github.com/materials-commons/materialscommons.org). ![GitHub last commit](https://img.shields.io/github/last-commit/materials-commons/materialscommons.org?style=social) [📄](https://link.springer.com/article/10.1007%2Fs11837-016-1998-7)
 
 ## Schemas/Ontologies
 
@@ -59,8 +61,14 @@ We live in a data-driven age. To make use of all the data that is produced in ch
 
 - [MatML](https://www.matml.org/): XML format for the interchange of materials information. 😴
 
+- [Physical information file (PIF)](https://citrineinformatics.github.io/pif-documentation/index.html): Schema for information about physical systems, maintained by Citrine informatics. [![Github Stars](https://img.shields.io/github/stars/CitrineInformatics/pypif?style=social)](https://github.com/Open-Reaction-Database/ord-schema) ![GitHub last commit](https://img.shields.io/github/last-commit/CitrineInformatics/pypif?style=social)
+
 ## Spectral data
 
 - [NMReDATA](http://nmredata.org/): Proposing a format for storing NMR data. [![Github Stars](https://img.shields.io/github/stars/NMReDATAInitiative/javatools?style=social)](https://github.com/NMReDATAInitiative/javatools) ![GitHub last commit](https://img.shields.io/github/last-commit/NMReDATAInitiative/javatools?style=social)
 
 - [JCAMP-DX](http://www.jcamp-dx.org/): Joint Committee on Atomic and Molecular Physical Data (JCAMP) data extension file for spectral data. Used by the [c6h6 eln](https://www.c6h6.org/).
+
+## Related compilations
+
+- [Awesome Materials Informatics](https://github.com/tilde-lab/awesome-materials-informatics): In contrast to this compilation, [Awesome Materials Informatics](https://github.com/tilde-lab/awesome-materials-informatics) focusses more on computational materials science.
