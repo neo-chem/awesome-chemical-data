@@ -52,6 +52,11 @@ We live in a data-driven age. To make use of all the data that is produced in (e
 
 - [autoprotocol](https://autoprotocol.org/): Language for specifying experimental protocols. Has with [Autoprotocol standard changes](https://autoprotocol.org/ascs/) a mechanism similar to Python enhancement proposals for changes in the standard. [![Github Stars](https://img.shields.io/github/stars/autoprotocol/autoprotocol-python?style=social)](https://github.com/autoprotocol/autoprotocol-python) ![GitHub last commit](https://img.shields.io/github/last-commit/autoprotocol/autoprotocol-python?style=social)
 
+- [Chemical Markup Language (CML)](http://www.xml-cml.org/): XML for most chemistry, especially molecules, compounds, reactions, spectra, crystals and computational chemistry, developed by Peter Murray-Rust and Henry Rzepa.
+
+- [European Materials and Modelling Ontology (EMMO)](https://emmc.info/emmo-info/): An ontology designed to represent the "complex multiscale nature of chemicals and materials" with varying analytical philosophical interpretations. Available from the [emmo-repo](https://github.com/emmo-repo/) organisation on GitHub. [![Github Stars](https://img.shields.io/github/stars/emmo-repo/EMMO?style=social)](https://github.com/emmo-repo/EMMO) ![GitHub last commit](https://img.shields.io/github/last-commit/emmo-repo/EMMO?style=social)
+
+
 ### Analytical methods
 
 - [Chemical Methods Ontology](https://github.com/rsc-ontologies/rsc-cmo): Describes methods used to collect data in chemical experiments, based on the IUPAC Orange Book in ontology language (OBO and OWL).[![Github Stars](https://img.shields.io/github/stars/rsc-ontologies/rsc-cmo?style=social)](https://github.com/rsc-ontologies/rsc-cmo) ![GitHub last commit](https://img.shields.io/github/last-commit/rsc-ontologies/rsc-cmo?style=social)
