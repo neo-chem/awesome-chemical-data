@@ -19,7 +19,7 @@ We live in a data-driven age. To make use of all the data that is produced in (e
 
 ### Overviews
 
-- [ELN comparison grid](https://datamanagement.hms.harvard.edu/electronic-lab-notebooks) by Harvard Biomedial Data.
+- [ELN comparison grid](https://datamanagement.hms.harvard.edu/electronic-lab-notebooks) by Harvard Biomedical Data.
 - [ELN guidance](https://www.gurdon.cam.ac.uk/institute-life/computing/elnguidance) by the Gurdon institute of the University of Cambridge.
 - [Comparison of ELNs](https://github.com/Labii/comparison-of-best-electronic-lab-notebook) by the Labii ELN.
 - [List of ELNs](https://en.wikipedia.org/wiki/List_of_electronic_laboratory_notebook_software_packages) on Wikipedia.
@@ -70,7 +70,7 @@ We live in a data-driven age. To make use of all the data that is produced in (e
 
 - [MatML](https://www.matml.org/): XML format for the interchange of materials information. 😴
 
-- [Physical information file (PIF)](https://citrineinformatics.github.io/pif-documentation/index.html): Schema for information about physical systems, maintained by Citrine informatics. [![Github Stars](https://img.shields.io/github/stars/CitrineInformatics/pypif?style=social)](https://github.com/Open-Reaction-Database/ord-schema) ![GitHub last commit](https://img.shields.io/github/last-commit/CitrineInformatics/pypif?style=social)
+- [Physical information file (PIF)](https://citrineinformatics.github.io/pif-documentation/index.html): Schema for information about physical systems, maintained by Citrine informatics. [![Github Stars](https://img.shields.io/github/stars/CitrineInformatics/pypif?style=social)](https://github.com/CitrineInformatics/pypif) ![GitHub last commit](https://img.shields.io/github/last-commit/CitrineInformatics/pypif?style=social)
 
 ### Spectral data
 
