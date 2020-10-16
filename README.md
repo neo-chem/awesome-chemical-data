@@ -5,7 +5,7 @@ We live in a data-driven age. To make use of all the data that is produced in (e
 | Symbol | Meaning                            |
 | ------ | ---------------------------------- |
 | 😴     | Currently not developed/maintained |
-| 💰     | Proprietary product                |
+| 🔓     | Closed source                      |
 | 📄     | Link to a paper                    |
 
 ## Contents
@@ -24,11 +24,12 @@ We live in a data-driven age. To make use of all the data that is produced in (e
 - [Comparison of ELNs](https://github.com/Labii/comparison-of-best-electronic-lab-notebook) by the Labii ELN.
 - [List of ELNs](https://en.wikipedia.org/wiki/List_of_electronic_laboratory_notebook_software_packages) on Wikipedia.
 
-### Open Source
+### ELNs
 
 - [c6h6](https://www.c6h6.org/): Developed by the [cheminfo organization](https://github.com/cheminfo), couchDB backend, modular frontend in JavaScript. [![Github Stars](https://img.shields.io/github/stars/cheminfo/roc-eln-docker?style=social)](https://github.com/cheminfo/roc-eln-docker) ![GitHub last commit](https://img.shields.io/github/last-commit/cheminfo/roc-eln-docker?style=social) [📄](https://onlinelibrary.wiley.com/doi/abs/10.1002/mrc.4669)
 - [chemotion ELN](https://github.com/ComPlat/chemotion_ELN): Developed by Nicole Jung's group at KIT, with focus on organic chemistry. Written in JavaScript/Ruby. [![Github Stars](https://img.shields.io/github/stars/ComPlat/chemotion_ELN?style=social)](https://github.com/ComPlat/chemotion_ELN) ![GitHub last commit](https://img.shields.io/github/last-commit/ComPlat/chemotion_ELN?style=social) [📄](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5612905/pdf/13321_2017_Article_240.pdf)
 - [openBIS](https://openbis.ch/): General purpose LIMS/ELN developed at ETH Zuerich, allows to add custom plugins and direct data analysis in Jupyter notebooks. Core written in Java. [📄](https://academic.oup.com/bioinformatics/article/32/4/638/1743839).
+- [LabTrove](http://labtrove.org/): The ELN used for the [Open Source Malaria](http://malaria.ourexperiment.org/triazolopyrazine_se) project.
 
 ## Repositories
 
@@ -55,7 +56,6 @@ We live in a data-driven age. To make use of all the data that is produced in (e
 - [Chemical Markup Language (CML)](http://www.xml-cml.org/): XML for most chemistry, especially molecules, compounds, reactions, spectra, crystals and computational chemistry, developed by Peter Murray-Rust and Henry Rzepa.
 
 - [European Materials and Modelling Ontology (EMMO)](https://emmc.info/emmo-info/): An ontology designed to represent the "complex multiscale nature of chemicals and materials" with varying analytical philosophical interpretations. Available from the [emmo-repo](https://github.com/emmo-repo/) organisation on GitHub. [![Github Stars](https://img.shields.io/github/stars/emmo-repo/EMMO?style=social)](https://github.com/emmo-repo/EMMO) ![GitHub last commit](https://img.shields.io/github/last-commit/emmo-repo/EMMO?style=social)
-
 
 ### Analytical methods
 
