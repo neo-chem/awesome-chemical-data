@@ -37,6 +37,8 @@ We live in a data-driven age. To make use of all the data that is produced in (e
 
 - [Materials Commons](https://github.com/materials-commons/materialscommons.org): A site for Materials Scientists to collaborate, store and publish research. [![Github Stars](https://img.shields.io/github/stars/materials-commons/materialscommons.org?style=social)](https://github.com/materials-commons/materialscommons.org). ![GitHub last commit](https://img.shields.io/github/last-commit/materials-commons/materialscommons.org?style=social) [📄](https://link.springer.com/article/10.1007%2Fs11837-016-1998-7)
 
+- [nmrshiftdb2](https://nmrshiftdb.nmr.uni-koeln.de/) Repository for NMR data. A major rework of the software is pending. Use of NMReDATA is central. Can include raw data and processed data (currently the case for some entries, mostly peak lists). Integration in workflows is possible (e. g. prediction usedin chemotion).
+
 ## Schemas/Ontologies
 
 ### Overviews
