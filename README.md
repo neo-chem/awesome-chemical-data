@@ -71,6 +71,10 @@ We live in a data-driven age. To make use of all the data that is produced in (e
 - [Molecular process ontology (MOP)](https://www.ebi.ac.uk/ols/ontologies/mop): Molecular processes that underlie the name reaction ontology RXNO.
 - [ord-schema](https://github.com/Open-Reaction-Database/ord-schema): Schema for organic reactions developed for the open reaction database. [![Github Stars](https://img.shields.io/github/stars/Open-Reaction-Database/ord-schema?style=social)](https://github.com/Open-Reaction-Database/ord-schema) ![GitHub last commit](https://img.shields.io/github/last-commit/Open-Reaction-Database/ord-schema?style=social)
 
+## Biology
+
+- [SD2E/opil](https://github.com/SD2E/opil) Synthetic biology experiment description effort intended to standardize the interface between human-generated experimental requests and lab-automated protocol. [![Github Stars](https://img.shields.io/github/stars/SD2E/opil?style=social)](https://github.com/Open-Reaction-Database/ord-schema) ![GitHub last commit](https://img.shields.io/github/last-commit/SD2E/opil?style=social)
+
 ### Materials synthesis
 
 ### Materials properties
@@ -85,8 +89,12 @@ We live in a data-driven age. To make use of all the data that is produced in (e
 
 - [JCAMP-DX](http://www.jcamp-dx.org/): Joint Committee on Atomic and Molecular Physical Data (JCAMP) data extension file for spectral data. Used by the [c6h6 eln](https://www.c6h6.org/).
 
+## Initiatives/Consortia
+
+- [NFDI4Chem](https://www.nfdi4chem.de/): Initiative to build an open and FAIR infrastructure for research data management in chemistry.
+
 ## Related compilations
 
-- [Awesome Materials Informatics](https://github.com/tilde-lab/awesome-materials-informatics): In contrast to this compilation, [Awesome Materials Informatics](https://github.com/tilde-lab/awesome-materials-informatics) focusses more on computational materials science.
+- [Awesome Materials Informatics](https://github.com/tilde-lab/awesome-materials-informatics): In contrast to this compilation, [Awesome Materials Informatics](https://github.com/tilde-lab/awesome-materials-informatics) focuses more on computational materials science.
 
 - [FAIRsharing.org](https://fairsharing.org) domain collections for [Chemistry](https://fairsharing.org/collection/Chemistry) and [Semantic Assets for Materials Science](https://fairsharing.org/collection/SemanticAssetsMatSci).
