@@ -55,7 +55,7 @@ We live in a data-driven age. To make use of all the data that is produced in (e
 
 - [autoprotocol](https://autoprotocol.org/): Language for specifying experimental protocols. Has with [Autoprotocol standard changes](https://autoprotocol.org/ascs/) a mechanism similar to Python enhancement proposals for changes in the standard. [![Github Stars](https://img.shields.io/github/stars/autoprotocol/autoprotocol-python?style=social)](https://github.com/autoprotocol/autoprotocol-python) ![GitHub last commit](https://img.shields.io/github/last-commit/autoprotocol/autoprotocol-python?style=social)
 
-- [Chemical Markup Language (CML)](http://www.xml-cml.org/): XML for most chemistry, especially molecules, compounds, reactions, spectra, crystals and computational chemistry, developed by Peter Murray-Rust and Henry Rzepa. [📄](https://dx.doi.org/10.1186/1758-2946-3-44)
+- [Chemical Markup Language (CML)](http://www.xml-cml.org/): XML for most chemistry, especially molecules, compounds, reactions, spectra, crystals and computational chemistry, developed by Peter Murray-Rust and Henry Rzepa. [📄](https://dx.doi.org/10.1186/1758-2946-3-44) 😴 ([Last Update: 2013-04-22](https://sourceforge.net/projects/cml/))
 
 - [European Materials and Modelling Ontology (EMMO)](https://emmc.info/emmo-info/): An ontology designed to represent the "complex multiscale nature of chemicals and materials" with varying analytical philosophical interpretations. Available from the [emmo-repo](https://github.com/emmo-repo/) organisation on GitHub. [![Github Stars](https://img.shields.io/github/stars/emmo-repo/EMMO?style=social)](https://github.com/emmo-repo/EMMO) ![GitHub last commit](https://img.shields.io/github/last-commit/emmo-repo/EMMO?style=social)
 
@@ -71,6 +71,10 @@ We live in a data-driven age. To make use of all the data that is produced in (e
 - [Molecular process ontology (MOP)](https://www.ebi.ac.uk/ols/ontologies/mop): Molecular processes that underlie the name reaction ontology RXNO.
 - [ord-schema](https://github.com/Open-Reaction-Database/ord-schema): Schema for organic reactions developed for the open reaction database. [![Github Stars](https://img.shields.io/github/stars/Open-Reaction-Database/ord-schema?style=social)](https://github.com/Open-Reaction-Database/ord-schema) ![GitHub last commit](https://img.shields.io/github/last-commit/Open-Reaction-Database/ord-schema?style=social)
 
+## Biology
+
+- [SD2E/opil](https://github.com/SD2E/opil) Synthetic biology experiment description effort intended to standardize the interface between human-generated experimental requests and lab-automated protocol. [![Github Stars](https://img.shields.io/github/stars/SD2E/opil?style=social)](https://github.com/Open-Reaction-Database/ord-schema) ![GitHub last commit](https://img.shields.io/github/last-commit/SD2E/opil?style=social)
+
 ### Materials synthesis
 
 ### Materials properties
@@ -85,8 +89,18 @@ We live in a data-driven age. To make use of all the data that is produced in (e
 
 - [JCAMP-DX](http://www.jcamp-dx.org/): Joint Committee on Atomic and Molecular Physical Data (JCAMP) data extension file for spectral data. Used by the [c6h6 eln](https://www.c6h6.org/).
 
+- [nmrML](https://github.com/nmrML/nmrML): Open mark-up language for NMR raw and spectral data. [![Github Stars](https://img.shields.io/github/stars/nmrML/nmrML?style=social)](https://github.com/nmrML/nmrML) ![GitHub last commit](https://img.shields.io/github/last-commit/nmrML/nmrML?style=social) [📄](https://pubs.acs.org/doi/10.1021/acs.analchem.7b02795).
+
+- [CMLSpect](https://sourceforge.net/projects/cml/): XML Vocabulary for Spectral Data (extension of CML). [📄](https://pubs.acs.org/doi/10.1021/ci600531a) 😴 ([Last Update: 2013-04-22](https://sourceforge.net/projects/cml/)).
+
+## Initiatives/Consortia
+
+- [NFDI4Chem](https://www.nfdi4chem.de/): Initiative to build an open and FAIR infrastructure for research data management in chemistry.
+
+- [Blue Obelisk](https://blueobelisk.github.io/): Internet group promoting reusable chemistry via open source software development. [📄](https://pubs.acs.org/doi/10.1021/ci050400b) [📄](https://jcheminf.biomedcentral.com/articles/10.1186/1758-2946-3-37)
+
 ## Related compilations
 
-- [Awesome Materials Informatics](https://github.com/tilde-lab/awesome-materials-informatics): In contrast to this compilation, [Awesome Materials Informatics](https://github.com/tilde-lab/awesome-materials-informatics) focusses more on computational materials science.
+- [Awesome Materials Informatics](https://github.com/tilde-lab/awesome-materials-informatics): In contrast to this compilation, [Awesome Materials Informatics](https://github.com/tilde-lab/awesome-materials-informatics) focuses more on computational materials science.
 
 - [FAIRsharing.org](https://fairsharing.org) domain collections for [Chemistry](https://fairsharing.org/collection/Chemistry) and [Semantic Assets for Materials Science](https://fairsharing.org/collection/SemanticAssetsMatSci).
