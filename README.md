@@ -71,7 +71,7 @@ We live in a data-driven age. To make use of all the data that is produced in (e
 - [Molecular process ontology (MOP)](https://www.ebi.ac.uk/ols/ontologies/mop): Molecular processes that underlie the name reaction ontology RXNO.
 - [ord-schema](https://github.com/Open-Reaction-Database/ord-schema): Schema for organic reactions developed for the open reaction database. [![Github Stars](https://img.shields.io/github/stars/Open-Reaction-Database/ord-schema?style=social)](https://github.com/Open-Reaction-Database/ord-schema) ![GitHub last commit](https://img.shields.io/github/last-commit/Open-Reaction-Database/ord-schema?style=social)
 
-## Biology
+### Biology
 
 - [SD2E/opil](https://github.com/SD2E/opil) Synthetic biology experiment description effort intended to standardize the interface between human-generated experimental requests and lab-automated protocol. [![Github Stars](https://img.shields.io/github/stars/SD2E/opil?style=social)](https://github.com/Open-Reaction-Database/ord-schema) ![GitHub last commit](https://img.shields.io/github/last-commit/SD2E/opil?style=social)
 
