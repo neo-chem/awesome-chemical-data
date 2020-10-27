@@ -103,6 +103,8 @@ We live in a data-driven age. To make use of all the data that is produced in (e
 
 - [Chemistry Research Data IG](https://www.rd-alliance.org/groups/chemistry-research-data-interest-group.html): Interest Group of the Research Data Alliance (RDA) that aims to foster exchange on chemical data.
 
+- [RDA/CODATA Materials Data, Infrastructure & Interoperability IG](https://www.rd-alliance.org/groups/rdacodata-materials-data-infrastructure-interoperability-ig.html): Interest Group of the Research Data Alliance (RDA) that aims to foster exchange on material data.
+
 ## Related compilations
 
 - [Awesome Materials Informatics](https://github.com/tilde-lab/awesome-materials-informatics): In contrast to this compilation, [Awesome Materials Informatics](https://github.com/tilde-lab/awesome-materials-informatics) focuses more on computational materials science.
