@@ -59,7 +59,7 @@ We live in a data-driven age. To make use of all the data that is produced in (e
 
 - [European Materials and Modelling Ontology (EMMO)](https://emmc.info/emmo-info/): An ontology designed to represent the "complex multiscale nature of chemicals and materials" with varying analytical philosophical interpretations. Available from the [emmo-repo](https://github.com/emmo-repo/) organisation on GitHub. [![Github Stars](https://img.shields.io/github/stars/emmo-repo/EMMO?style=social)](https://github.com/emmo-repo/EMMO) ![GitHub last commit](https://img.shields.io/github/last-commit/emmo-repo/EMMO?style=social)
 
-- [Materials Genome Initiative JSON](https://github.com/usnistgov/mgi-json-schema): JSON schema for materials science and engineering. [![Github Stars](https://img.shields.io/github/stars/usnistgov/mgi-json-schema?style=social)](https://github.com/usnistgov/mgi-json-schema) ![GitHub last commit](https://img.shields.io/github/last-commit/usnistgov/mgi-json-schema?style=social)
+- [Materials Genome Initiative JSON](https://github.com/usnistgov/mgi-json-schema): JSON schema for materials science and engineering. Directly related is [Material Schema](https://github.com/usnistgov/material-schema) which aims to extend schema.org for materials science. [![Github Stars](https://img.shields.io/github/stars/usnistgov/mgi-json-schema?style=social)](https://github.com/usnistgov/mgi-json-schema) ![GitHub last commit](https://img.shields.io/github/last-commit/usnistgov/mgi-json-schema?style=social)
 
 ### Analytical methods
 
