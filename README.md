@@ -99,6 +99,8 @@ We live in a data-driven age. To make use of all the data that is produced in (e
 
 - [Blue Obelisk](https://blueobelisk.github.io/): Internet group promoting reusable chemistry via open source software development. [📄](https://pubs.acs.org/doi/10.1021/ci050400b) [📄](https://jcheminf.biomedcentral.com/articles/10.1186/1758-2946-3-37)
 
+- [GO FAIR Chemistry Implementation Network](https://www.go-fair.org/implementation-networks/overview/chemistryin/): Goals are "to enhance the open, FAIR and effective communication of chemical knowledge within the chemical sciences and between chemistry and other disciplines" and "to enable chemists and chemistry to contribute to the achievement of the UN Global Sustainable Development goals" (direct quotes from the website). [📄](https://www.mitpressjournals.org/doi/full/10.1162/dint_a_00035)
+
 ## Related compilations
 
 - [Awesome Materials Informatics](https://github.com/tilde-lab/awesome-materials-informatics): In contrast to this compilation, [Awesome Materials Informatics](https://github.com/tilde-lab/awesome-materials-informatics) focuses more on computational materials science.
