@@ -89,6 +89,8 @@ We live in a data-driven age. To make use of all the data that is produced in (e
 
 - [JCAMP-DX](http://www.jcamp-dx.org/): Joint Committee on Atomic and Molecular Physical Data (JCAMP) data extension file for spectral data. Used by the [c6h6 eln](https://www.c6h6.org/).
 
+- [nmrML](https://github.com/nmrML/nmrML): Open mark-up language for NMR raw and spectral data. [![Github Stars](https://img.shields.io/github/stars/nmrML/nmrML?style=social)](https://github.com/nmrML/nmrML) ![GitHub last commit](https://img.shields.io/github/last-commit/nmrML/nmrML?style=social) [📄](https://pubs.acs.org/doi/10.1021/acs.analchem.7b02795).
+
 ## Initiatives/Consortia
 
 - [NFDI4Chem](https://www.nfdi4chem.de/): Initiative to build an open and FAIR infrastructure for research data management in chemistry.
