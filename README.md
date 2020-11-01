@@ -26,10 +26,11 @@ We live in a data-driven age. To make use of all the data that is produced in (e
 
 ### ELNs
 
-- [c6h6](https://www.c6h6.org/): Developed by the [cheminfo organization](https://github.com/cheminfo), couchDB backend, modular frontend in JavaScript. [![Github Stars](https://img.shields.io/github/stars/cheminfo/roc-eln-docker?style=social)](https://github.com/cheminfo/roc-eln-docker) ![GitHub last commit](https://img.shields.io/github/last-commit/cheminfo/roc-eln-docker?style=social) [📄](https://onlinelibrary.wiley.com/doi/abs/10.1002/mrc.4669)
+- [c6h6](https://www.c6h6.org/): Developed by the [cheminfo organization](https://github.com/cheminfo), couchDB backend, modular frontend in JavaScript. [![Github Stars](https://img.shields.io/github/stars/cheminfo/roc-eln-docker?style=social)](https://github.com/cheminfo/roc-eln-docker) ![GitHub last commit](https://img.shields.io/github/last-commit/cheminfo/roc-eln-docker?style=social) [📄](https://onlinelibrary.wiley.com/doi/abs/10.1002/mrc.4669).
 - [chemotion ELN](https://github.com/ComPlat/chemotion_ELN): Developed by Nicole Jung's group at KIT, with focus on organic chemistry. Written in JavaScript/Ruby. [![Github Stars](https://img.shields.io/github/stars/ComPlat/chemotion_ELN?style=social)](https://github.com/ComPlat/chemotion_ELN) ![GitHub last commit](https://img.shields.io/github/last-commit/ComPlat/chemotion_ELN?style=social) [📄](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5612905/pdf/13321_2017_Article_240.pdf)
 - [openBIS](https://openbis.ch/): General purpose LIMS/ELN developed at ETH Zuerich, allows to add custom plugins and direct data analysis in Jupyter notebooks. Core written in Java. [📄](https://academic.oup.com/bioinformatics/article/32/4/638/1743839).
 - [LabTrove](http://labtrove.org/): The ELN used for the [Open Source Malaria](http://malaria.ourexperiment.org/triazolopyrazine_se) project.
+- [bluesky](https://blueskyproject.io/bluesky/): More than just an ELN. Bluesky is a Python ecosystem that can be used for experiment control and collection of scientific data and metadata, being developed at national labs with synchrotrons, there is a focuss on streaming data. [![Github Stars](https://img.shields.io/github/stars/bluesky/bluesky?style=social)](https://github.com/bluesky/bluesky) ![GitHub last commit](https://img.shields.io/github/last-commit/bluesky/bluesky?style=social). [📄](https://www.tandfonline.com/doi/full/10.1080/08940886.2019.1608121).
 
 ## Repositories
 
@@ -101,7 +102,7 @@ We live in a data-driven age. To make use of all the data that is produced in (e
 
 - [Blue Obelisk](https://blueobelisk.github.io/): Internet group promoting reusable chemistry via open source software development. [📄](https://pubs.acs.org/doi/10.1021/ci050400b) [📄](https://jcheminf.biomedcentral.com/articles/10.1186/1758-2946-3-37)
 
-- [GO FAIR Chemistry Implementation Network](https://www.go-fair.org/implementation-networks/overview/chemistryin/): Goals are "to enhance the open, FAIR and effective communication of chemical knowledge within the chemical sciences and between chemistry and other disciplines" and "to enable chemists and chemistry to contribute to the achievement of the UN Global Sustainable Development goals" (direct quotes from the website). [📄](https://www.mitpressjournals.org/doi/full/10.1162/dint_a_00035)
+- [GO FAIR Chemistry Implementation Network](https://www.go-fair.org/implementation-networks/overview/chemistryin/): Goals are "to enhance the open, FAIR and effective communication of chemical knowledge within the chemical sciences and between chemistry and other disciplines" and "to enable chemists and chemistry to contribute to the achievement of the UN Global Sustainable Development goals" (direct quotes from the website). [📄](https://www.mitpressjournals.org/doi/full/10.1162/dint_a_00035).
 
 - [Chemistry Research Data IG](https://www.rd-alliance.org/groups/chemistry-research-data-interest-group.html): Interest Group of the Research Data Alliance (RDA) that aims to foster exchange on chemical data.
 
