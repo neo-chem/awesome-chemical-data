@@ -31,6 +31,7 @@ We live in a data-driven age. To make use of all the data that is produced in (e
 - [openBIS](https://openbis.ch/): General purpose LIMS/ELN developed at ETH Zuerich, allows to add custom plugins and direct data analysis in Jupyter notebooks. Core written in Java. [📄](https://academic.oup.com/bioinformatics/article/32/4/638/1743839).
 - [LabTrove](http://labtrove.org/): The ELN used for the [Open Source Malaria](http://malaria.ourexperiment.org/triazolopyrazine_se) project.
 - [bluesky](https://blueskyproject.io/bluesky/): More than just an ELN. Bluesky is a Python ecosystem that can be used for experiment control and collection of scientific data and metadata, being developed at national labs with synchrotrons, there is a focuss on streaming data. [![Github Stars](https://img.shields.io/github/stars/bluesky/bluesky?style=social)](https://github.com/bluesky/bluesky) ![GitHub last commit](https://img.shields.io/github/last-commit/bluesky/bluesky?style=social). [📄](https://www.tandfonline.com/doi/full/10.1080/08940886.2019.1608121).
+- [Materials Data Curation System (MDCS)](https://github.com/usnistgov/MDCS): A framework for capturing, sharing and transforming materials data in structured formats such as XML, based on user-selected templates. Developed at NIST. [![Github Stars](https://img.shields.io/github/stars/usnistgov/MDCS?style=social)](https://github.com/usnistgov/MDCS) ![GitHub last commit](https://img.shields.io/github/last-commit/usnistgov/MDCS?style=social)
 
 ## Repositories
 
@@ -38,7 +39,7 @@ We live in a data-driven age. To make use of all the data that is produced in (e
 
 - [Materials Commons](https://github.com/materials-commons/materialscommons.org): A site for Materials Scientists to collaborate, store and publish research. [![Github Stars](https://img.shields.io/github/stars/materials-commons/materialscommons.org?style=social)](https://github.com/materials-commons/materialscommons.org). ![GitHub last commit](https://img.shields.io/github/last-commit/materials-commons/materialscommons.org?style=social) [📄](https://link.springer.com/article/10.1007%2Fs11837-016-1998-7)
 
-- [nmrshiftdb2](https://nmrshiftdb.nmr.uni-koeln.de/) Repository for NMR data. A major rework of the software is pending. Use of NMReDATA is central. Can include raw data and processed data (currently the case for some entries, mostly peak lists). Integration in workflows is possible (e. g. prediction usedin chemotion).
+- [nmrshiftdb2](https://nmrshiftdb.nmr.uni-koeln.de/) Repository for NMR data. A major rework of the software is pending. Use of NMReDATA is central. Can include raw data and processed data (currently the case for some entries, mostly peak lists). Integration in workflows is possible (e.g. prediction used in chemotion).
 
 ## Schemas/Ontologies
 
