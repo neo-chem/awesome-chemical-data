@@ -66,7 +66,7 @@ We live in a data-driven age. To make use of all the data that is produced in (e
 - [ChemAxiom](https://github.com/scimantica/chemaxiomchemdomain): Ontological framework for chemistry, led by Peter Murray-Rust.
   [![Github Stars](https://img.shields.io/github/stars/scimantica/mgi-json-schema?style=social)](https://github.com/scimantica/chemaxiomchemdomain) ![GitHub last commit](https://img.shields.io/github/last-commit/scimantica/chemaxiomchemdomain?style=social) 😴
 
-- [Chemical Information Ontology](https://github.com/egonw/semanticchemistry/): "aims to establish a standard in representing chemical information. In particular, it aims to produce an ontology to represent chemical structure and to richly describe chemical properties, whether intrinsic or computed." (direct quote from the `README`)  [![Github Stars](https://img.shields.io/github/stars/egonw/semanticchemistry?style=social)](https://github.com/egonw/semanticchemistry) ![GitHub last commit](https://img.shields.io/github/last-commit/egonw/semanticchemistry?style=social) [📄](https://doi.org/10.1371/journal.pone.0025513).
+- [Chemical Information Ontology](https://github.com/egonw/semanticchemistry/): "aims to establish a standard in representing chemical information. In particular, it aims to produce an ontology to represent chemical structure and to richly describe chemical properties, whether intrinsic or computed." (direct quote from the `README`) [![Github Stars](https://img.shields.io/github/stars/egonw/semanticchemistry?style=social)](https://github.com/egonw/semanticchemistry) ![GitHub last commit](https://img.shields.io/github/last-commit/egonw/semanticchemistry?style=social) [📄](https://doi.org/10.1371/journal.pone.0025513).
 
 ### Analytical methods
 
@@ -81,6 +81,8 @@ We live in a data-driven age. To make use of all the data that is produced in (e
 - [ord-schema](https://github.com/Open-Reaction-Database/ord-schema): Schema for organic reactions developed for the open reaction database. [![Github Stars](https://img.shields.io/github/stars/Open-Reaction-Database/ord-schema?style=social)](https://github.com/Open-Reaction-Database/ord-schema) ![GitHub last commit](https://img.shields.io/github/last-commit/Open-Reaction-Database/ord-schema?style=social)
 
 ### Biology
+
+- [ISA framework](https://isa-tools.org/): Data model built around "Investigation" (project context), "Study" (unit of research), "Assay" (analytical measurement) to manage life science/biomedical (\*omics) experiments. [![Github Stars](https://img.shields.io/github/stars/ISA-tools/isa-api?style=social)](https://github.com/ISA-tools/isa-api) ![GitHub last commit](https://img.shields.io/github/last-commit/ISA-tools/isa-api?style=social) [📄](https://www.nature.com/articles/ng.1054)
 
 - [SD2E/opil](https://github.com/SD2E/opil) Synthetic biology experiment description effort intended to standardize the interface between human-generated experimental requests and lab-automated protocol. [![Github Stars](https://img.shields.io/github/stars/SD2E/opil?style=social)](https://github.com/Open-Reaction-Database/ord-schema) ![GitHub last commit](https://img.shields.io/github/last-commit/SD2E/opil?style=social)
 
