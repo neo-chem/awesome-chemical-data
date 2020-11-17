@@ -65,6 +65,8 @@ We live in a data-driven age. To make use of all the data that is produced in (e
 - [ChemAxiom](https://github.com/scimantica/chemaxiomchemdomain): Ontological framework for chemistry, led by Peter Murray-Rust.
   [![Github Stars](https://img.shields.io/github/stars/scimantica/mgi-json-schema?style=social)](https://github.com/scimantica/chemaxiomchemdomain) ![GitHub last commit](https://img.shields.io/github/last-commit/scimantica/chemaxiomchemdomain?style=social) 😴
 
+- [Chemical Information Ontology](https://github.com/egonw/semanticchemistry/): "aims to establish a standard in representing chemical information. In particular, it aims to produce an ontology to represent chemical structure and to richly describe chemical properties, whether intrinsic or computed." (direct quote from the `README`)  [![Github Stars](https://img.shields.io/github/stars/egonw/semanticchemistry?style=social)](https://github.com/egonw/semanticchemistry) ![GitHub last commit](https://img.shields.io/github/last-commit/egonw/semanticchemistry?style=social) [📄](https://doi.org/10.1371/journal.pone.0025513).
+
 ### Analytical methods
 
 - [Chemical Methods Ontology](https://github.com/rsc-ontologies/rsc-cmo): Describes methods used to collect data in chemical experiments, based on the IUPAC Orange Book in ontology language (OBO and OWL).[![Github Stars](https://img.shields.io/github/stars/rsc-ontologies/rsc-cmo?style=social)](https://github.com/rsc-ontologies/rsc-cmo) ![GitHub last commit](https://img.shields.io/github/last-commit/rsc-ontologies/rsc-cmo?style=social)
